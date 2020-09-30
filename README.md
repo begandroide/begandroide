@@ -1,12 +1,6 @@
 
-- Web & Mobile developer
-- Typescript :eye:
-- UX & UI
+<img align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="50" height="50"  style="float: right;"/>
 
-<style>
-#foo {color: red}
-</style>
-
-<p id="foo">foo</p>
-
-<p style="color: blue">bar</p>
+- Web :computer: & Mobile :iphone: developer
+- Typescript :heart:
+- UX & UI :running:
