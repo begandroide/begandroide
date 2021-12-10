@@ -5,4 +5,3 @@
 - Last year student of Engineer Computer science
 - UX & UI :running:
 
-![](https://komarev.com/ghpvc/?username=begandroide)
